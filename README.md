@@ -1,10 +1,14 @@
+<center>
 # Exam Interface
+</center>
 
 - Developed a fully dynamic exam interface having both admin and student portals that can be used on small as well as large scales.
 - Used Python tools in the implementation of the project.
 - Displayed the questions after reading from source files and checked for the answers instantly.
 
+<center>
 ## Teacher Interface
+</center>
 
 Hello everyone. Now we have entered the teacher interface where details about the quiz, student and questions will be entered.
 
